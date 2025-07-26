@@ -2,7 +2,7 @@
 
 About me:
 
-👩‍💻 Computer Engineering Graduate @unitorvergata
+👩‍💻🎓 Computer Engineering Graduate @unitorvergata
 
 <!--
 **c-elisa/c-elisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
